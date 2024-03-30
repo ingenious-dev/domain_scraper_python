@@ -88,7 +88,7 @@ This is not indicative of performance of their their service offering. It is onl
 | itertools | Functions creating iterators for efficient looping  |
 
 ## Authors
-Joseph Suhudu [Github @josuhudu](https://githug.com/josuhudu)
+Joseph Suhudu [Github @josuhudu](https://github.com/josuhudu)
 
 ## Tips
 To determine with service provider is cheaper the general rule is to check
