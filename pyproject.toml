@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "Domain Scraper Python"
+version = "0.1.0"
+description = "Pythons script for quickly checking the availabilty of web domains"
+authors = ["ingenious-dev <72666669+ingenious-dev@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.31.0"
+beautifulsoup4 = "^4.12.3"
+xlwt = "^1.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
